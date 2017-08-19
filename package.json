@@ -1,0 +1,19 @@
+{
+  "name": "jpgs",
+  "version": "1.0.0",
+  "description": "image processing service with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "makeit",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "mkdirp": "^0.5.1",
+    "multiparty": "^4.1.3",
+    "mysql2": "^1.4.1",
+    "sequelize": "^4.5.0"
+  }
+}
